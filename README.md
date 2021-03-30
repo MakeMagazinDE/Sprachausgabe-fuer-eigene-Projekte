@@ -10,5 +10,5 @@ mit Raspberry Pi, Arduino und ESP-Modulen
 
 ![Picture](https://github.com/MakeMagazinDE/Sprachausgabe-fuer-eigene-Projekte/blob/main/Voltmeter.jpg) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 2/21 ab Seite 8](https://www.heise.de/select/make/2021/1/2020408465876482831)** zu lesen. 
+Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 2/21 ab Seite 8](https://www.heise.de/select/make/2021/2/2103513080130883903)** zu lesen. 
 
